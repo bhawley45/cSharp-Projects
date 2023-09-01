@@ -1,0 +1,15 @@
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.exe
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.deps.json
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.runtimeconfig.json
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.dll
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.pdb
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.csproj.AssemblyReference.cache
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.AssemblyInfoInputs.cache
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.AssemblyInfo.cs
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.dll
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ToDoList\ToDoList\obj\Debug\net6.0\refint\ToDoList.dll
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.pdb
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.genruntimeconfig.cache
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ToDoList\ToDoList\obj\Debug\net6.0\ref\ToDoList.dll
