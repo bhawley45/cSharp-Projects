@@ -1,18 +1,29 @@
 ﻿
+var recatngle1 = new Rectangle(5,10);
 
-var internationalPizzaDay23 = new DateTime(2023, 2, 9);
-
-Console.WriteLine("year is " + internationalPizzaDay23.Year);
-Console.WriteLine("month is " + internationalPizzaDay23.Month);
-Console.WriteLine("day is " + internationalPizzaDay23.Day);
-Console.WriteLine("day of the week is " + internationalPizzaDay23.DayOfWeek);
-
-var internationalPizzaDay24 = internationalPizzaDay23.AddYears(1);
-
-Console.WriteLine("year is " + internationalPizzaDay24.Year);
-Console.WriteLine("month is " + internationalPizzaDay24.Month);
-Console.WriteLine("day is " + internationalPizzaDay24.Day);
-Console.WriteLine("day of the week is " + internationalPizzaDay24.DayOfWeek);
-
+//Console.WriteLine($"width is: {recatngle1}");
+//Console.WriteLine($"height is: {recatngle1}");
+Console.WriteLine($"Area is {recatngle1.CalculateArea()}");
+Console.WriteLine($"Circumference is {recatngle1.CalculateCircumference()}");
 
 Console.ReadKey();
+
+class Rectangle
+{
+    //fields (can have defaults assigned, otherwise int=0)
+    int _width;
+    int _height;
+
+    //constructor
+    public Rectangle(int width,int height)
+    {
+        //Typically contains field assignment and validations
+        this._width = width;
+        this._height = height;
+    }
+
+    //Methods: should always start w/ a verb
+    public int CalculateCircumference() { return 2 * _width + 2 * _height; }
+
+    public int CalculateArea() { return _width * _height; }
+}
