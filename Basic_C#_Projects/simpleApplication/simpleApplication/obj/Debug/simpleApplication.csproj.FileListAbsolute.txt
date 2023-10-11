@@ -1,0 +1,7 @@
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\simpleApplication\simpleApplication\bin\Debug\simpleApplication.exe.config
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\simpleApplication\simpleApplication\bin\Debug\simpleApplication.exe
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\simpleApplication\simpleApplication\bin\Debug\simpleApplication.pdb
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\simpleApplication\simpleApplication\obj\Debug\simpleApplication.csproj.AssemblyReference.cache
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\simpleApplication\simpleApplication\obj\Debug\simpleApplication.csproj.CoreCompileInputs.cache
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\simpleApplication\simpleApplication\obj\Debug\simpleApplication.exe
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\simpleApplication\simpleApplication\obj\Debug\simpleApplication.pdb

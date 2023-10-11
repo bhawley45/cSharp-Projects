@@ -1,0 +1,14 @@
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\OOP_Practice\OOP_Practice\bin\Debug\net6.0\OOP_Practice.exe
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\OOP_Practice\OOP_Practice\bin\Debug\net6.0\OOP_Practice.deps.json
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\OOP_Practice\OOP_Practice\bin\Debug\net6.0\OOP_Practice.runtimeconfig.json
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\OOP_Practice\OOP_Practice\bin\Debug\net6.0\OOP_Practice.dll
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\OOP_Practice\OOP_Practice\bin\Debug\net6.0\OOP_Practice.pdb
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\OOP_Practice\OOP_Practice\obj\Debug\net6.0\OOP_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\OOP_Practice\OOP_Practice\obj\Debug\net6.0\OOP_Practice.AssemblyInfoInputs.cache
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\OOP_Practice\OOP_Practice\obj\Debug\net6.0\OOP_Practice.AssemblyInfo.cs
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\OOP_Practice\OOP_Practice\obj\Debug\net6.0\OOP_Practice.csproj.CoreCompileInputs.cache
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\OOP_Practice\OOP_Practice\obj\Debug\net6.0\OOP_Practice.dll
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\OOP_Practice\OOP_Practice\obj\Debug\net6.0\refint\OOP_Practice.dll
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\OOP_Practice\OOP_Practice\obj\Debug\net6.0\OOP_Practice.pdb
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\OOP_Practice\OOP_Practice\obj\Debug\net6.0\OOP_Practice.genruntimeconfig.cache
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\OOP_Practice\OOP_Practice\obj\Debug\net6.0\ref\OOP_Practice.dll

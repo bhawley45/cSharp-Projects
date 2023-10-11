@@ -101,10 +101,6 @@ void exitProgram()
     Console.ReadLine();
 }
 
-
-
-
-
 void PrintWelcomeMessage()
 {
     Console.WriteLine("-=-=-=-=-=-=-=-=-=-=-=-=-=-");
