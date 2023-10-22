@@ -1,0 +1,7 @@
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ClassesAssignment\ClassesAssignment\bin\Debug\ClassesAssignment.exe.config
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ClassesAssignment\ClassesAssignment\bin\Debug\ClassesAssignment.exe
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ClassesAssignment\ClassesAssignment\bin\Debug\ClassesAssignment.pdb
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ClassesAssignment\ClassesAssignment\obj\Debug\ClassesAssignment.csproj.AssemblyReference.cache
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ClassesAssignment\ClassesAssignment\obj\Debug\ClassesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ClassesAssignment\ClassesAssignment\obj\Debug\ClassesAssignment.exe
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ClassesAssignment\ClassesAssignment\obj\Debug\ClassesAssignment.pdb
