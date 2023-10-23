@@ -1,0 +1,7 @@
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ConsoleAssignment2\ConsoleAssignment2\bin\Debug\ConsoleAssignment2.exe.config
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ConsoleAssignment2\ConsoleAssignment2\bin\Debug\ConsoleAssignment2.exe
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ConsoleAssignment2\ConsoleAssignment2\bin\Debug\ConsoleAssignment2.pdb
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ConsoleAssignment2\ConsoleAssignment2\obj\Debug\ConsoleAssignment2.csproj.AssemblyReference.cache
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ConsoleAssignment2\ConsoleAssignment2\obj\Debug\ConsoleAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ConsoleAssignment2\ConsoleAssignment2\obj\Debug\ConsoleAssignment2.exe
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\ConsoleAssignment2\ConsoleAssignment2\obj\Debug\ConsoleAssignment2.pdb
