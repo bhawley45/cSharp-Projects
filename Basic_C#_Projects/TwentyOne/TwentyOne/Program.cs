@@ -13,7 +13,7 @@ namespace TwentyOne
             Deck deck = new Deck();
             deck.Shuffle();
 
-            foreach(Card card in deck.Cards)
+            foreach (Card card in deck.Cards)
             {
                 Console.WriteLine($"{card.Face} of {card.Suit}");
             }
