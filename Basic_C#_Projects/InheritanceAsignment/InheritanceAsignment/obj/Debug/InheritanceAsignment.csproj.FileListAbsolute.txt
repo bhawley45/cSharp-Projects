@@ -1,0 +1,7 @@
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\InheritanceAsignment\InheritanceAsignment\bin\Debug\InheritanceAsignment.exe.config
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\InheritanceAsignment\InheritanceAsignment\bin\Debug\InheritanceAsignment.exe
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\InheritanceAsignment\InheritanceAsignment\bin\Debug\InheritanceAsignment.pdb
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\InheritanceAsignment\InheritanceAsignment\obj\Debug\InheritanceAsignment.csproj.AssemblyReference.cache
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\InheritanceAsignment\InheritanceAsignment\obj\Debug\InheritanceAsignment.csproj.CoreCompileInputs.cache
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\InheritanceAsignment\InheritanceAsignment\obj\Debug\InheritanceAsignment.exe
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\InheritanceAsignment\InheritanceAsignment\obj\Debug\InheritanceAsignment.pdb
