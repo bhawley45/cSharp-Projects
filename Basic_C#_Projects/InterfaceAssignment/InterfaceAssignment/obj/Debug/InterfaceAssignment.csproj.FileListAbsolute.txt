@@ -1,0 +1,7 @@
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\InterfaceAssignment\InterfaceAssignment\bin\Debug\InterfaceAssignment.exe.config
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\InterfaceAssignment\InterfaceAssignment\bin\Debug\InterfaceAssignment.exe
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\InterfaceAssignment\InterfaceAssignment\bin\Debug\InterfaceAssignment.pdb
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\InterfaceAssignment\InterfaceAssignment\obj\Debug\InterfaceAssignment.csproj.AssemblyReference.cache
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\InterfaceAssignment\InterfaceAssignment\obj\Debug\InterfaceAssignment.csproj.CoreCompileInputs.cache
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\InterfaceAssignment\InterfaceAssignment\obj\Debug\InterfaceAssignment.exe
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\InterfaceAssignment\InterfaceAssignment\obj\Debug\InterfaceAssignment.pdb
