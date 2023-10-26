@@ -8,7 +8,8 @@ namespace TwentyOne
 {
     public class TwentyOneGame : Game
     {
-        public void Play()
+        //use override keyword due to abstract Play() method from Game
+        public override void Play()
         {
             throw new NotImplementedException();
         }
