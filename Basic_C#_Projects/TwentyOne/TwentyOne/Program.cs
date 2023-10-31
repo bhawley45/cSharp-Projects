@@ -10,6 +10,13 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            //Using overloaded operator
+            Game game = new TwentyOneGame();
+            game.Players = new List<Player>();
+            Player player = new Player() { Name = "Bob"};
+            game += player;
+            game -= player;
+            
             Deck deck = new Deck();
             deck.Shuffle();
 
