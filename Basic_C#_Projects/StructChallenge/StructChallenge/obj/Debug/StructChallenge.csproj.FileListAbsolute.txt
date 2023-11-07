@@ -1,0 +1,7 @@
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\StructChallenge\StructChallenge\bin\Debug\StructChallenge.exe.config
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\StructChallenge\StructChallenge\bin\Debug\StructChallenge.exe
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\StructChallenge\StructChallenge\bin\Debug\StructChallenge.pdb
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\StructChallenge\StructChallenge\obj\Debug\StructChallenge.csproj.AssemblyReference.cache
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\StructChallenge\StructChallenge\obj\Debug\StructChallenge.csproj.CoreCompileInputs.cache
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\StructChallenge\StructChallenge\obj\Debug\StructChallenge.exe
+C:\Users\bhawl\Documents\GitHub\cSharp-Projects\Basic_C#_Projects\StructChallenge\StructChallenge\obj\Debug\StructChallenge.pdb
