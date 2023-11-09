@@ -23,7 +23,7 @@ namespace TwentyOne
             //Add dealt card to Log file
             using (StreamWriter file = new StreamWriter(@"C:\Users\bhawl\Documents\BlackJack\logs\log.txt", true))
             {
-                file.WriteLine(card);
+                file.Write($"{DateTime.Now}: {card}");
             }
             Deck.Cards.RemoveAt(0);
         }
