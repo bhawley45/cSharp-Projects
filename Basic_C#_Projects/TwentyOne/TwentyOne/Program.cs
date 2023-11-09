@@ -14,10 +14,10 @@ namespace TwentyOne
             var playerName = Console.ReadLine();
             Console.WriteLine("And how much money did you bring today?");
             int bank = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine($"Welcome {playerName}, would you like to start?");
+            Console.WriteLine($"Welcome {playerName}, would you like to start? (y/n)");
             var answer = Console.ReadLine().ToLower();
 
-            if(answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
+            if(answer == "y" || answer == "yes" || answer == "yeah" || answer == "ya")
             {
                 Player player = new Player(playerName, bank);
                 Game game = new TwentyOneGame();

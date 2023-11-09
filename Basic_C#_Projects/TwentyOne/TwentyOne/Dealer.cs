@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -16,7 +17,14 @@ namespace TwentyOne
         {
             //Takes first card off deck, adds to hand, Displays value, removes from deck...
             hand.Add(Deck.Cards.First());
-            Console.WriteLine(Deck.Cards.First().ToString() + "\n");
+            string card = string.Format(Deck.Cards.First().ToString() + "\n");
+            Console.WriteLine(card);
+
+            //Add dealt card to Log file
+            using (StreamWriter file = new StreamWriter(@"C:\Users\bhawl\Documents\BlackJack\logs\log.txt", true))
+            {
+                file.WriteLine(card);
+            }
             Deck.Cards.RemoveAt(0);
         }
     }
