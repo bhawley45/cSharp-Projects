@@ -11,6 +11,11 @@ namespace TwentyOne
         //Properties
         public Suit Suit { get; set; }
         public Face Face { get; set; }
+
+        public override string ToString()
+        {
+            return string.Format($"{Face} of {Suit}");
+        }
     }
 
     public enum Suit
